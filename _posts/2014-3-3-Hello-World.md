@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to my Blob!
+title: Welcome to my Blog!
 ---
 
-This is my first Blob post.  Future Blobs will include topics on PowerApps, Power Automate and anything SharePoint.
+This is my first Blog post.  Future Blogs will include topics on PowerApps, Power Automate and anything SharePoint.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
